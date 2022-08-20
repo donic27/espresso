@@ -1,4 +1,4 @@
-# Install Espresso Deletion Engine on a Kubernetes cluster
+# Install Espresso Deletion Orchestration on a Kubernetes cluster
 
 Installation Steps
 
